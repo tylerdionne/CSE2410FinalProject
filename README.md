@@ -7,8 +7,9 @@ pip install ansi2html
 logo.png (provided)  
   
 ## Test Files  
-chal1.bin (provided)  
+chal1.bin (provided)    
 chal2.bin (provided)  
+  
+## Installation  
+$ git clone https://github.com/tylerdionne/pwndbgGUI.git
 
-# To Run  
-python3 main.py  
