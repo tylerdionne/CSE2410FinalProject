@@ -4,6 +4,11 @@ pip install pwntools
 pip install ansi2html
 
 ## Necessary Files
-logo.png (logo image included)
+logo.png ((provided))
 
 ## Test Files
+chal1.bin (provided)
+chal2.bin (provided)
+
+# To Run
+python3 main.py
