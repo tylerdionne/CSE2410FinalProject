@@ -9,6 +9,9 @@ logo.png (provided)
 ## Test Files  
 chal1.bin (provided)    
 chal2.bin (provided)  
+Need execute permissions:  
+$ sudo chmod +x chal1.bin  
+$ sudo chmod +x chal2.bin  
   
 ## Installation  
 $ git clone https://github.com/tylerdionne/pwndbgGUI.git  
